@@ -1,3 +1,4 @@
+//  This JS button was created by Chris Merrill whos our resident Adobe Sign + SalesForce Guru
 //  This button will query for all agreement templates and
 //  present a list for the user to choose an agreement template from.
 //  If there is only 1 template, no options are given and that agreement template is used.
